@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Profile Banner -->
-![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels](https://github.com/user-attachments/assets/65544a6c-a26c-49c2-ae5a-cb1f9bd368d2)
+![]([https://github.com/user-attachments/assets/65544a6c-a26c-49c2-ae5a-cb1f9bd368d2](https://github.com/Tanmay-Dalvi/Tanmay-Dalvi/blob/main/banner_gif.gif))
 
 <div align="center">
   <img src="https://assets.pinterest.com/ext/embed.html?id=1970393582467200" height="233" width="236" frameborder="0" scrolling="no">
