@@ -6,7 +6,7 @@
   
 # 👋 Hi, I'm Tanmay Dalvi
 
-[![](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=medium&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmaydalvi)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
