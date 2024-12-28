@@ -1,76 +1,57 @@
-<div align="center">
-<!-- Profile Banner -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
-</div>
-  
-# 👋 Hi, I'm Tanmay Dalvi
+<img src="https://via.placeholder.com/1200x400" alt="Banner Image" align="center"/>
 
-[![](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=medium&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmaydalvi)
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-</div>
-
-## 👨‍💻 About Me
-
-🎓 I'm a Computer Engineering student at G H Raisoni College of Engineering and Management, Pune  
-📊 Aspiring Data Scientist passionate about turning data into actionable insights  
-🌟 Current CGPA: 9.27  
-📍 Based in Pune, Maharashtra  
-🚀 Currently building my skills in Data Science and Machine Learning
-
-## 🛠️ Tech Stack
-
-### Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Data Science & ML Tools
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-
-## 🌱 Currently Learning
-
-- Advanced Machine Learning Algorithms
-- Deep Learning with PyTorch
-- Natural Language Processing
-- Big Data Analytics
-- Cloud Computing (AWS/Azure)
-
-## 🎯 Future Goals
-
-- Contribute to open-source data science projects
-- Build end-to-end ML applications
-- Specialize in Computer Vision and NLP
-- Achieve AWS/Azure ML certifications
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanmay-Dalvi&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmay-Dalvi&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  
-### "Data is the new oil, but like oil, it's valuable only when refined." 
-</div>
+# Hi there! 👋 I'm **Tanmay Dalvi**  
+### 🧑‍🎓 Aspiring Data Scientist | Engineering Student | Lifelong Learner  
 
 ---
-<div align="center">
-  <b>Let's connect and build something amazing together!</b>
-</div>
+
+🔭 I am currently pursuing a B.Tech in Computer Engineering at **G H Raisoni College of Engineering and Management Pune** with a **CGPA of 9.27**.  
+🌍 Living in **Pune, Maharashtra**, I am passionate about using **Data Science** to uncover insights and solve real-world problems.  
+
+### 🚀 About Me  
+- 🎓 I'm driven to explore the intersection of **Machine Learning**, **Artificial Intelligence**, and **Big Data**.  
+- 📝 I believe in sharing knowledge and learning from the community.  
+- 💻 I'm continuously enhancing my skills in programming, data visualization, and statistical analysis.  
+- 📚 My goal is to contribute impactful projects to the open-source community and to build a career as a **Data Scientist**.
+
+---
+
+### 🛠️ My Skills  
+#### Programming Languages  
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)  
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)  
+
+#### Data Science and Visualization  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-FF9933?style=flat-square&logo=matplotlib)  
+![Seaborn](https://img.shields.io/badge/-Seaborn-blue?style=flat-square&logo=seaborn)  
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)  
+
+#### Machine Learning  
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
+
+#### Databases  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white)  
+
+---
+
+### 🌐 Connect With Me  
+- 🌍 [**Portfolio**](https://your-portfolio-link-here.com)  
+- 💼 [**LinkedIn**](https://linkedin.com/in/your-linkedin-profile)  
+- 📧 [**Email**](mailto:your-email-here@gmail.com)
+
+---
+
+### 📊 GitHub Stats  
+![Tanmay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanmay-Dalvi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Dalvi&layout=compact&theme=radical)
+
+---
+
+### 🌱 Fun Fact  
+🌟 *Data is everywhere, and so is the opportunity to learn and grow!* 🌟  
