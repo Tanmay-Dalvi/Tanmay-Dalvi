@@ -1,4 +1,8 @@
 <div align="center">
+<!-- Profile Banner -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+</div>
   
 # 👋 Hi, I'm Tanmay Dalvi
 
@@ -7,11 +11,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-</div>
-
-<!-- Profile Banner -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
 </div>
 
 ## 👨‍💻 About Me
