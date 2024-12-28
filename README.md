@@ -1,5 +1,6 @@
-![](banner_gif.gif)
-<div align="center">  
+<div align="center">
+<img src="banner_gif.gif" alt="Cool Video GIF" height="200" width="auto" />
+
 # 👋 Hi, I'm Tanmay Dalvi
 
 [![](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
