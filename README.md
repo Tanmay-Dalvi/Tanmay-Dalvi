@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Tanmay Dalvi
 
 [![](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=medium&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Tanmay-Dalvi)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmaydalvi)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -43,13 +43,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanmay-Dalvi&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmay-Dalvi&theme=radical" alt="GitHub Streak" />
-</div>
-
 ## 🌱 Currently Learning
 
 - Advanced Machine Learning Algorithms
@@ -64,6 +57,13 @@
 - Build end-to-end ML applications
 - Specialize in Computer Vision and NLP
 - Achieve AWS/Azure ML certifications
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanmay-Dalvi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmay-Dalvi&theme=radical" alt="GitHub Streak" />
+</div>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
