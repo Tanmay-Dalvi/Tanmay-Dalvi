@@ -1,5 +1,5 @@
 <div align="center">
-<img src="banner_gif.gif" alt="Cool Video GIF" height="250" width="800" />
+<img src="banner_gif.gif" alt="Cool Video GIF" height="300" width="100%" />
 
 # 👋 Hi, I'm Tanmay Dalvi
 
