@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Tanmay Dalvi
 
 [![](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=medium&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Tanmay-Dalvi)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -46,8 +46,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanmay-Dalvi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmay-Dalvi&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🌱 Currently Learning
