@@ -2,7 +2,7 @@
 ✨ Put your banner / GIF here (recommended width ~1000px)
 -->
 <p align="center">
-  <img src="banner_gif.gif" alt="Tanmay Dalvi Banner" />
+  <img src="banner_gif.gif" alt="Tanmay Dalvi Banner" height="300" width="100%"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Tanmay Dalvi</h1>
