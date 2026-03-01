@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- Portfolio -->
-  <a href="https://your-portfolio-website.com" target="_blank">
+  <a href="https://tanmaydalvi.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <!-- LinkedIn -->
